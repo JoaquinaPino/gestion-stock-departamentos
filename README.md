@@ -46,3 +46,11 @@ Al cerrar el sistema (Opción 6), se genera o actualiza el archivo:
 
 ## Desafíos Técnicos
 El mayor reto fue implementar la **recursividad** para el cálculo del IPC de forma que fuera útil para el usuario y cumpliera con los requisitos del módulo. También se puso especial énfasis en la **limpieza de la terminal**, usando saltos de línea y separadores para que la experiencia de uso sea cómoda.
+
+## Demostración
+Puede ver una demostración funcional del sistema en el siguiente enlace:
+[Link directo a YouTube](https://youtu.be/3BFnRsYScAg)
+
+---
+**Autor:** Joaquina Pino
+**Curso:** Python Full Stack - Módulo 3
